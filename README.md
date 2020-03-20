@@ -1,6 +1,6 @@
-# Project 1
+# book_review_app
 
-Web Programming with Python and JavaScript
+HarvardX (edX.org): Web Programming with Python and JavaScript
 
 Alice Huang, August 2019
 
@@ -11,6 +11,15 @@ enables users to create an account so they can utilize its features, which
 include searching for books using different keywords, browsing reviews, and
 writing their own reviews. The site also uses the Goodreads API to access
 broader rating data on the books. 
+
+## Tools
+  * Flask
+  * Python
+  * HTML/CSS
+  * Bootstrap
+  
+## Demo
+  [Video Demo](https://www.youtube.com/watch?v=0OGOoCEY1hc&feature=youtu.be)
 
 ## Files
 
@@ -29,4 +38,6 @@ templates/----.html - all the pages of the website
   * review.html - place for user to enter ratings/reviews for books
   * submit.html - page user sees after submitting a review
 static/styles.css - main custom styles on top of Bootstrap styles
-# book_review_app
+
+
+
